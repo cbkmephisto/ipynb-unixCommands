@@ -1,0 +1,24 @@
+0-Outline.ipynb
+1-Terminal_and_Shell.ipynb
+2-Navigation.ipynb
+3-Looking_around.ipynb
+4-Manipulating_files.ipynb
+5-IORedirection.ipynb
+6-Spliting_and_merging.ipynb
+7-Remote_job_techs.ipynb
+fileList
+file_permissions.png
+keyboard.svg.png
+=======================
+total 624
+-rw-r--r--  1 cbkmephisto  staff    2864 Jul 14 10:41 0-Outline.ipynb
+-rw-r--r--  1 cbkmephisto  staff   10150 Jul  5 16:02 1-Terminal_and_Shell.ipynb
+-rw-r--r--  1 cbkmephisto  staff  104370 Jul  5 16:09 2-Navigation.ipynb
+-rw-r--r--  1 cbkmephisto  staff   19846 Jul  2 16:00 3-Looking_around.ipynb
+-rw-r--r--  1 cbkmephisto  staff    5952 Jul 14 10:39 4-Manipulating_files.ipynb
+-rw-r--r--  1 cbkmephisto  staff   10586 Jul 14 14:35 5-IORedirection.ipynb
+-rw-r--r--  1 cbkmephisto  staff    1307 Jul  2 10:48 6-Spliting_and_merging.ipynb
+-rw-r--r--  1 cbkmephisto  staff    1307 Jul  2 10:48 7-Remote_job_techs.ipynb
+-rw-r--r--  1 cbkmephisto  staff     259 Jul 14 14:36 fileList
+-rw-r--r--@ 1 cbkmephisto  staff   59092 Jul  2 14:30 file_permissions.png
+-rw-r--r--@ 1 cbkmephisto  staff   79729 Jul  2 10:42 keyboard.svg.png
